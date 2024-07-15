@@ -157,6 +157,10 @@
     margin-bottom: 10px;
   }
 
+  .sub-feature-btn{
+    margin-top: -100px;
+    margin-left: -70px;
+  }
 
   .feature-img-icon{
     max-width: 700px;
@@ -237,7 +241,8 @@
   @media screen and (max-width:576px){
     .navbar,
     .nav-links,
-    .teams{
+    .teams,
+    .features-love{
         flex-direction: column;
     }
     .team-img-container, .facts-container, .sponsor-img{
@@ -248,6 +253,10 @@
 
     .team-features{
       margin-left: 20px;
+    }
+
+    .sub-feature-btn{
+      margin: 20px 20px 20px 0;
     }
     
 
