@@ -235,6 +235,13 @@
   filter: grayscale(100%);
  }
 
+ /* footer styles */
+
+ .foot{
+   margin-top: 40px;
+   padding: 28px 400px;
+   margin-bottom: 40px;
+ }
 
   /* responsive styles */
 
